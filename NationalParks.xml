@@ -128,4 +128,16 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
+  <NationalPark>
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Phone>360-565-3131</Phone>
+    <Address NearestAirport="Seattle">
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+</NationalPark>
 </NationalParks>
